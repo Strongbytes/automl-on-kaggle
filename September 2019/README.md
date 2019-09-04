@@ -7,7 +7,7 @@ Here's what you need in order to attend this workshop:
 * Install either [Miniconda](https://conda.io/en/latest/miniconda.html) or [Anaconda](https://www.anaconda.com/downloads). The Python 3.7 version 🐍.
 * Run the following commands inside this directory
 
-```console
+```shell
 conda env create -f env.yml -n ainights_sep_2019
 conda activate ainights_sep_2019
 ipython kernel install --user

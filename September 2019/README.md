@@ -9,6 +9,8 @@ Here's what you need in order to attend this workshop:
 ```shell
 conda env create -f env.yml -n automl_on_titanic
 conda activate automl_on_titanic
+pip install --user ipykernel
+
 ipython kernel install --user --name=automl_on_titanic
 
 jupyter notebook

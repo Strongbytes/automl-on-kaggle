@@ -1,4 +1,4 @@
-Here's what you need in order to attend this workshop:
+Here's what you need in order to run this notebook:
 
 * Clone this repository somewhere nice
 * Create a [Kaggle](https://www.kaggle.com) account, join the [Titanic competition](https://www.kaggle.com/c/titanic/overview) competition, download its data files to the [data](./data) folder
@@ -17,5 +17,3 @@ jupyter notebook
 ```
 * If everything runs fine and at the end you can open the `auto-ml-and-kaggle.ipynb` notebook then congrats, you've conquered this challenge 🥳
 * If something fails, let [@vladiliescu](https://github.com/vladiliescu) or [@dotnet18](https://github.com/dotnet18) know about it and they'll help you out
-
-See you at the workshop! 

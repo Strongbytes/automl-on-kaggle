@@ -3,3 +3,9 @@ config.json
 data
 .ipynb_checkpoints
 .azureml
+download_explanation
+*.log*
+tmp*
+
+*.pkl
+*.csv
